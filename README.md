@@ -1,20 +1,20 @@
-<!-- Encabezado con tu nombre -->
+<!-- Header with your name -->
 <h1 align="center">👨‍💻 Juan José Román Ruiz</h1>
-<h3 align="center">Programador Junior | DAW | Entusiasta de la tecnología</h3>
+<h3 align="center">Junior Developer | DAW | Technology Enthusiast</h3>
 
 ---
 
-<!-- Sobre mí -->
-### 👋 Sobre mí
-- 🎓 Técnico en **Desarrollo de Aplicaciones Web (DAW)**
-- 🔧 Técnico en **Instalación de Sistemas de Telecomunicaciones, Electricidad y Electrónica**
-- 💡 Apasionado por la programación, con aprendizaje rápido y proactividad
-- 🤝 Buscando mi primera oportunidad profesional en el sector IT
+<!-- About Me -->
+### 👋 About Me
+- 🎓 Higher Technician in **Web Application Development (DAW)**
+- 🔧 Technician in **Telecommunications, Electricity and Electronics Systems Installation**
+- 💡 Passionate about programming, fast learner and proactive
+- 🤝 Looking for my first professional opportunity in the IT sector
 
 ---
 
-<!-- Tecnologías -->
-### 🚀 Tecnologías y herramientas
+<!-- Technologies -->
+### 🚀 Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -30,24 +30,24 @@
 
 <!-- Soft Skills -->
 ### 🌟 Soft Skills
-- Proactividad  
-- Aprendizaje rápido  
-- Trabajo en equipo  
-- Resolución de problemas  
-- Adaptabilidad  
+- Proactivity  
+- Fast learner  
+- Teamwork  
+- Problem-solving  
+- Adaptability  
 
 ---
 
-<!-- Proyectos -->
-### 📂 Proyectos destacados
-- 🐾 **Sistema de reservas veterinarias** → Aplicación web con PHP + MySQL + Bootstrap  
-- 📋 **Gestión de empleados** → CRUD completo en PHP con base de datos MySQL  
-- 🌐 Más en mi perfil de [GitHub](#)  
+<!-- Projects -->
+### 📂 Featured Projects
+- 🐾 **Veterinary Appointment Booking System** → Web application built with PHP + MySQL + Bootstrap  
+- 📋 **Employee Management System** → Full CRUD app in PHP with MySQL database  
+- 🌐 More on my [GitHub profile](#)  
 
 ---
 
-<!-- Contacto -->
-### 📫 Contacto
-- ✉️ Email: **tuemail@ejemplo.com**  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](#)  
-- 📍 Málaga, España
+<!-- Contact -->
+### 📫 Contact
+- ✉️ Email: **youremail@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 📍 Málaga, Spain
