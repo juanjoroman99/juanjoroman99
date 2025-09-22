@@ -42,7 +42,7 @@
 ### 📂 Featured Projects
 - 🐾 **Veterinary Appointment Booking System** → Web application built with PHP + MySQL + Bootstrap  
 - 📋 **Employee Management System** → Full CRUD app in PHP with MySQL database  
-- 🌐 More on <a >PawsPoint folder</a> 
+- 🌐 More on <a href="https://github.com/juanjoroman99/PawsPoint">PawsPoint</a> <a>folder</a> 
 
 ---
 
