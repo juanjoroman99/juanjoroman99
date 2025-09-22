@@ -42,12 +42,12 @@
 ### 📂 Featured Projects
 - 🐾 **Veterinary Appointment Booking System** → Web application built with PHP + MySQL + Bootstrap  
 - 📋 **Employee Management System** → Full CRUD app in PHP with MySQL database  
-- 🌐 More on my <a hrc="linkedin.com/in/juan-josé-román-ruiz-223172221">Juan José Román Ruiz</a> 
+- 🌐 More on my <a href="linkedin.com/in/juan-josé-román-ruiz-223172221">Juan José Román Ruiz</a> 
 
 ---
 
 <!-- Contact -->
 ### 📫 Contact
 - ✉️ Email: rjuanjo563@gmail.com  
-- 💼 LinkedIn: <a hrc="linkedin.com/in/juan-josé-román-ruiz-223172221">Juan José Román Ruiz</a> 
+- 💼 LinkedIn: <a href="linkedin.com/in/juan-josé-román-ruiz-223172221">Juan José Román Ruiz</a> 
 - 📍 Málaga, Spain
